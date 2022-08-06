@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yusuf!</h1>
+<h1 align="center">Hi, I'm Yusuf! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
 <h3 align="center">Software Developer | CSE Student | Founder of  <a href="https://leaptech.dev/" target="_blank" rel="noreferrer"> LeapTech</h3></a>
 
  <h3 align="left"> 💬 My General Specialties </h3>
