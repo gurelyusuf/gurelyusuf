@@ -29,7 +29,7 @@
 </p>
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+<center>![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square) </center> 
   
 
 
