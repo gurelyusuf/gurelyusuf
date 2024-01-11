@@ -1,27 +1,12 @@
-<h1 align="center">Hi, I'm Yusuf! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
-<h3 align="center">Software Developer | CSE Student | Founder of  <a href="https://leaptech.dev/" target="_blank" rel="noreferrer"> LeapTech</h3></a>
+![Header](./github-header-image.png)
 
  <h3 align="left"> 💬 My General Specialties </h3>
  
  - Computer Science/Engineering Student
  - Researcher & Software Developer, Deep Tech Entrepreneur
- - Develops softwares for mobile platforms as Android & iOS
+ - Develops softwares for mobile platforms as iOS
  - Keen on Integration of Deep Tech & Mobile Platforms
  - Believes in a digitally decentralized future as his own "digital philosophy".
-
- <h3 align="left"> 👨🏻‍💻  Languages </h3>
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/0a/8cd7f1b14344618b75142593bc7af8/JavaCupLogo800x800.png?auto=format%2Ccompress&dpr=1" alt="java" width="40" height="40"/> </a>
- <a href="developer.apple.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
-  
-<br/>  
-    
-  <h3 align="left"> 🧩 Tools, Libraries, Frameworks, SDKs </h3>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-
-
-<br/>  
 
 
 <h3 align="left"> 🔗 Connect with me</h3>
