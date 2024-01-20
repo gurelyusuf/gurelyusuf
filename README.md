@@ -1,6 +1,6 @@
 <a href="https://yusufgurel.vercel.app/"> <img src="https://raw.githubusercontent.com/gurelyusuf/gurelyusuf/main/github-header-image.png"> </a>
 
-<a href="https://samujjwaal.me/"><img src="https://raw.githubusercontent.com/gurelyusuf/gurelyusuf/main/memoji.png" align="left" height="350" /></a>
+<a href="mailto:yusufgureldevgmail.com/"><img src="https://raw.githubusercontent.com/gurelyusuf/gurelyusuf/main/memoji.png" align="left" height="350" /></a>
 
 <br/>
 
