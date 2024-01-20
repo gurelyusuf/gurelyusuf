@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+<a href="https://yusufgurel.vercel.app/"> <img src="https://raw.githubusercontent.com/gurelyusuf/gurelyusuf/main/github-header-image.png"> </a>
 
  <h3 align="left"> 💬 My General Specialties </h3>
  
