@@ -8,7 +8,7 @@
  
  - Computer Science/Engineering Student
  - Researcher & Software Developer, Deep Tech Entrepreneur
- - Develops softwares for mobile platforms as iOS
+ - Develops softwares for iOS
  - Keen on Integration of Deep Tech & Mobile Platforms
  - Believes in a digitally decentralized future as his own "digital philosophy".
 
