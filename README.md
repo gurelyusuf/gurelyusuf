@@ -1,4 +1,4 @@
-<a href="https://yusufgurel.vercel.app/"> <img src="https://raw.githubusercontent.com/gurelyusuf/gurelyusuf/main/github-header-image.png"> </a>
+<a href="https://yusufgurel.vercel.app/"> <img src="github-header-image.png"> </a>
 
 <a href="mailto:yusufgureldevgmail.com/"><img src="https://raw.githubusercontent.com/gurelyusuf/gurelyusuf/main/memoji.png" align="left" height="350" /></a>
 
