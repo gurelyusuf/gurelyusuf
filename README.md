@@ -1,4 +1,4 @@
-<a href="https://yusufgurel.vercel.app/"> <img src="github-header-image.png"> </a>
+<img src="github-header-image.png">
 
 <br/>
 
