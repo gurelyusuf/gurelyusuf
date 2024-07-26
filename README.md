@@ -1,4 +1,4 @@
-<img src="github-header-image.png">
+<a href="https://www.linkedin.com/in/gurelyusuf/"> <img src="github-header-image.png"> </a>
 
 <br/>
 
