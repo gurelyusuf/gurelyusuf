@@ -39,6 +39,7 @@ A software developer based in Istanbul, Turkey, specializing in iOS development 
 <strong>🏋️‍♂️&nbsp;&nbsp;&nbsp;Interests:</strong> Bushcraft, Lifting, Blogging, Sci-fi Books, Story-Driven Gaming
 </p>
 
+
 <br/>
 <h2 align="left"> 🔗&nbsp;&nbsp;Connect w/ Me</h2>
 <p align="left">
@@ -47,3 +48,9 @@ A software developer based in Istanbul, Turkey, specializing in iOS development 
   <a href="https://medium.com/@gurelyusuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
 </p>
 <br/>
+
+<p>
+</p>
+
+> To read the summary about me on terminal, just run `npx gurel`
+
