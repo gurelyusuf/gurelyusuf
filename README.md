@@ -4,7 +4,7 @@
 
 <h2 align="left"> 👋&nbsp;&nbsp;About Me </h2>
 <p>
-A software developer based in Istanbul, Turkey, specializing in iOS development with a focus on SwiftUI. Experienced in backend technologies such as Node.js and possessing a fundamental understanding of UI/UX design principles. Also involved in digital marketing with experience in App Store Optimization (ASO). Dedicated to delivering scalable solutions with a passion for innovation and problem-solving.
+A software developer based in Istanbul, Türkiye, specializing in iOS development with a focus on SwiftUI. Experienced in backend technologies such as Node.js and possessing a fundamental understanding of UI/UX design principles. Also involved in digital marketing with experience in App Store Optimization (ASO). Dedicated to delivering scalable solutions with a passion for innovation and problem-solving.
 </p>
 <br/>
 <h2 align="left"> ⚙️&nbsp;&nbsp;Technical Skills </h2>
