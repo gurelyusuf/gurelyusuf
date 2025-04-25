@@ -2,7 +2,7 @@
 
 `- Product-Minded iOS, Backend Developer | SWE`
 
-`- Crafting tech driven by simplicity.`
+`- Crafting intuitive tech, guided by simplicity.`
 
 </br>
 
