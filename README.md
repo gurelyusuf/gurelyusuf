@@ -6,4 +6,4 @@
 
 </br>
 
-> To read a summary and reach me, just run `npx gurel`.
+> To read a summary or reach me, just run `npx gurel`.
